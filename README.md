@@ -1,6 +1,6 @@
 ## Olá, bem-vindo! :raising_hand:
 
-> Eu sou a Débora, sou desenvolvedora JS, apaixonada por estudar e aprender coisas novas, cada dia tentando codar melhor. Acredito que conhecimento muda o mundo e todo mundo tem um pouquinho para ensinar e compartilhar.  
+> Eu sou a Débora, desenvolvedora JS, apaixonada por estudar e aprender coisas novas, cada dia tentando codar melhor. Acredito que conhecimento muda o mundo e todo mundo tem um pouquinho para ensinar e compartilhar.  
 
 - :books: Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi
 - :computer: Node JS, React e React Native
