@@ -1,18 +1,31 @@
-## Olá, bem-vindo! :raising_hand:
+# Hello! <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
-> Eu sou a Débora, desenvolvedora JS, apaixonada por estudar e aprender coisas novas, cada dia tentando codar melhor. Acredito que conhecimento muda o mundo e todo mundo tem um pouquinho para ensinar e compartilhar.  
+Brazilian Software Developer<br>
+I work with ReactJS right now, but I love backend as well<br>
+I believe every person has something to learn and something to teach.<br>
+If you want to work together please let me know: &nbsp; [![E-mail](https://user-images.githubusercontent.com/60484585/87349178-411eec80-c52c-11ea-9d7e-1808c0e9a8d2.png)](mailto:deboranunesfelix@gmail.com) [![LinkedIn](https://user-images.githubusercontent.com/60484585/87348076-8fcb8700-c52a-11ea-8299-4d71e142afb1.png)](https://www.linkedin.com/in/deboranunesfelix/)
 
-- :books: Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi
-- :computer: Node JS, React e React Native
-- :book: Melhorando o Inglês
-- :rocket: Estudante da Rocketseat
+### What am I doing on github?
 
-- :memo: Pode me perguntar sobre tecnologia, javascript, inglês, series, comida, planejamento pessoal etc... 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deborafelix&?count_private=true&show_icons=true&theme=radical&line_height=33,5)](https://github.com/deborafelix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafelix&langs_count=4&?&theme=radical&hide=java,objective-c,starlark,ruby&card_width=300)](https://github.com/deborafelix/github-readme-stats)
 
-## Entre em contato
+&nbsp;
+---
 
-[![LinkedIn](https://user-images.githubusercontent.com/60484585/87348076-8fcb8700-c52a-11ea-8299-4d71e142afb1.png)](https://www.linkedin.com/in/deboranunesfelix/) **Linkedin** 
+### Tech's
 
-[![E-mail](https://user-images.githubusercontent.com/60484585/87349178-411eec80-c52c-11ea-9d7e-1808c0e9a8d2.png)](mailto:deboranunesfelix@gmail.com)  **Gmail**  
+![JS](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![NODE](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![REACT](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![REACT NATIVE](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GO](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
+![JEST](https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-[![Discord](https://user-images.githubusercontent.com/60484585/87349263-66abf600-c52c-11ea-842d-5acddef92c1b.png)](https://discord.gg/XbNKdc)  **Discord**
+&nbsp;
+---
+
+#### If you did read all this, I think you can have a joke too
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
