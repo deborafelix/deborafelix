@@ -5,6 +5,8 @@ I work with ReactJS right now, but I love backend as well<br>
 I believe every person has something to learn and something to teach.<br>
 If you want to work together please let me know: &nbsp; [![E-mail](https://user-images.githubusercontent.com/60484585/87349178-411eec80-c52c-11ea-9d7e-1808c0e9a8d2.png)](mailto:deboranunesfelix@gmail.com) [![LinkedIn](https://user-images.githubusercontent.com/60484585/87348076-8fcb8700-c52a-11ea-8299-4d71e142afb1.png)](https://www.linkedin.com/in/deboranunesfelix/)
 
+<br>
+
 ### What am I doing on github?
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deborafelix&?count_private=true&show_icons=true&theme=radical&line_height=33,5)](https://github.com/deborafelix/github-readme-stats)
@@ -23,6 +25,8 @@ If you want to work together please let me know: &nbsp; [![E-mail](https://user-
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
 ![JEST](https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
+&nbsp;
 
 &nbsp;
 ---
