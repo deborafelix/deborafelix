@@ -10,7 +10,7 @@ If you want to work together please let me know: &nbsp; [![E-mail](https://user-
 ### What am I doing on github?
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deborafelix&?count_private=true&show_icons=true&theme=radical&line_height=33,5)](https://github.com/deborafelix/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafelix&langs_count=8&?&theme=radical&hide=java,objective-c,starlark,ruby&card_width=300)](https://github.com/deborafelix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborafelix&langs_count=8&?&theme=radical&hide=java,objective-c,starlark,ruby, html,css&card_width=300)](https://github.com/deborafelix/github-readme-stats)
 
 &nbsp;
 ---
